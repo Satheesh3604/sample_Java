@@ -1,0 +1,7 @@
+public class normalProgram{
+public void sample(
+{
+system.out.println("java");
+}
+}
+
