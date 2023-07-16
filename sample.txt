@@ -2,6 +2,7 @@ public class normalProgram{
 public void sample(
 {
 system.out.println("java program");
+system.out.println("java is a object orianted language");
 }
 }
 
